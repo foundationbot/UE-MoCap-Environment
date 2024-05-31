@@ -1,0 +1,26 @@
+# Stereolabs plugins - ignored in plugins
+
+# Runtime mesh plugin
+RuntimeMeshComponent/Binaries/*
+RuntimeMeshComponent/Intermediate/*
+
+# MetaHumans
+Content/MetaHumans/*
+
+# Local tests
+Content/LocalTest/*
+Content/LocalTests/*
+
+#local folders
+*.vs
+*.db
+*.vc.db
+*.vc.vc.opendb
+*.sln
+Binaries/*
+Build/*
+Debug/*
+DerivedDataCache/*
+Intermediate/*
+Saved/*
+Config/DefaultGame.ini
